@@ -4,7 +4,11 @@
 
 ## Alexander Furst and Sam Yocom
 
+Link to paper: https://ieeexplore.ieee.org/document/9452125 
+
 ### Setup:
+
+
 
 1. create your own virtual environment with "python -m venv venv"
 2. install dependencies with "pip install -r requirements.txt"
