@@ -6,5 +6,5 @@
 
 ### Setup:
 
-1. if not already activated, run "venv/scripts/activate" in the command line
+1. create your own virtual environment with "python -m venv venv"
 2. install dependencies with "pip install -r requirements.txt"
